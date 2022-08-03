@@ -1,0 +1,31 @@
+#wrapper {
+    width: 28%;
+    margin: 200px auto;
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    box-sizing: border-box;
+    height: 220px;
+    padding-top: 20px;
+    box-shadow: 0px 0px 10px black;
+                
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cont {
+    width: 95%;
+    margin: auto;
+    
+}
+input{
+    width: 68%;
+}
+#btn {
+    padding: 10px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    margin-top: 10px;
+}
+span {
+    color: red;
+}
